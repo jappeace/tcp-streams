@@ -1,0 +1,6 @@
+flags:
+  tcp-streams: {}
+packages:
+  - "."
+extra-deps: []
+resolver: lts-20
